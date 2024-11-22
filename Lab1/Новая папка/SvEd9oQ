@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>NGC 2237 - Rosette Nebula - астрофотография</title>
+	<meta name="description" content="Астрофото NGC 2237 - Rosette Nebula от пользователя Alexey Kudosh. Synthetic HSO  ">
+	<meta name="keywords" content="астрофотография NGC 2237 - Rosette Nebula астрофото">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!--[if IE]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<link rel="stylesheet" type="text/css" href="/css/reset.css">
+	<link rel="stylesheet" type="text/css" href="/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="/fonts/stylesheet.css">
+	<link rel="stylesheet" type="text/css" href="/css/style.css?32">
+	<link rel="stylesheet" type="text/css" href="/css/mobile.css?15">
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+	<script src="/js/jquery.nicescroll.min.js"></script>
+	<script src="/js/jquery.cookie.js"></script>
+	<script src="/js/scripts.js?13"></script>
+	<link rel="icon" type="image/png" href="/img/favicon.png">
+	<meta property="og:image" content="https://deepskyhosting.com/img/p/1000/40451708526964.jpg">
+	
+<script>
+	var logged_only = 'This feature is available only for registered users...';
+	var upload_error = 'Error occuried while uploading your photo. Check your image type: it should be a .png, .jpg or .gif';
+	var following = 'Following';
+	var follow = 'Follow';
+	var ignoring = 'Ignoring';
+	var ignore = 'Ignore';
+	var needtomark = 'Mark two photos to compare changes';
+	var setting_saved = 'Your settings have been saved.';
+	var setting_badurl = 'This users url not available. Try another.';
+	var ava_remove = 'Do you really want to delete this photo?';
+</script>
+	<meta name="yandex-verification" content="aa0cab0d4ec49366" />
+</head>
+<body class="do_string inside-body ">
+
+	<div class="top_notification" style="display: none;"><i class="fas fa-exclamation-circle"></i> <span></span></div>
+	
+	<div class="header">
+		<div class="menu-bar">
+			<div class="container">
+				<div class="float-right top-right first">
+					<div class="top-search">
+						<i class="fas fa-search"></i>
+					</div>
+					<div class="choose-lang popup">
+						<div href="/" class="lang">EN <i class="fas fa-angle-down"></i></div>
+						<div class="lang-block popuphide">
+							<div class="lang-item current" data-lang="EN">EN</div>
+							<div class="lang-item " data-lang="DE">DE</div>
+							<div class="lang-item " data-lang="RU">RU</div>
+							<div class="lang-item " data-lang="BY">BY</div>
+							<div class="lang-item " data-lang="UA">UA</div>
+						</div>
+					</div>
+					<div class="top-upload">
+						<span class="button accent upload-btn no-user"><i class="fas fa-upload"></i> <span>Upload</span></span>
+					</div>
+					<div class="sign-in">
+						<a href="/index.php?do=login" class="sign-in-link">Sign In</a>					</div>
+					<span class="cloud-icon"><i class="fas fa-cloud-sun"></i></span>
+				</div>
+				<div class="top-menu-bar for-mobile"><i class="fas fa-bars"></i></div>
+				<div class="for-mobile mobile-notice"><a href="/index.php?do=login" class="sign-in-link">Sign In</a></div>
+				<a href="/" class="logo"><img src="/img/logo.png?1"></a>
+				
+				<div class="float-right top-right for-mobile">
+					<div class="top-search">
+						<i class="fas fa-search"></i>
+					</div>
+					<div class="choose-lang popup">
+						<div href="/" class="lang">EN <i class="fas fa-angle-down"></i></div>
+						<div class="lang-block popuphide">
+							<div class="lang-item current" data-lang="EN">EN</div>
+							<div class="lang-item " data-lang="DE">DE</div>
+							<div class="lang-item " data-lang="RU">RU</div>
+							<div class="lang-item " data-lang="BY">BY</div>
+							<div class="lang-item " data-lang="UA">UA</div>
+						</div>
+					</div>
+					<div class="top-upload">
+						<span class="button accent upload-btn no-user"><i class="fas fa-upload"></i> <span>Upload</span></span>
+					</div>
+					<div class="sign-in">
+						<a href="/index.php?do=login" class="sign-in-link">Sign In</a>					</div>
+					<span class="cloud-icon"><i class="fas fa-cloud-sun"></i></span>
+				</div>
+				
+				<div class="top-menu"><div class="top-search-div"><form action="/phpajax.php" method="post"><span class="close"><i class="fas fa-times"></i></span><input type="text" placeholder="Searching for..." name="search_str"><button type="submit" name="search_go"><i class="fas fa-search"></i></button></form></div>
+					<a href="/deepsky/">Astrophotography</a><a href="/index.php?do=users">Photographers</a>
+				</div>
+			</div>
+		</div>
+		
+		
+	</div>
+		
+<div class="content no-bg pt-15">
+	<div class="container inside pt-40 pb-40">
+		<h1 class="text-center">NGC 2237 - Rosette Nebula</h1>
+		<div class="photo-date text-center pt-15 pb-30"><i class="far fa-clock"></i> &nbsp;Posted: <span>21 Feb, 2024</span></div>
+		<div class="photo-content inside-content cat_0">
+			<div class="show-photo left-content" data-mono-img="https://deepskyhosting.com/img/p/1000/mono_40451708526964.jpg" data-img="https://deepskyhosting.com/img/p/1000/40451708526964.jpg" data-mono-high-res-img="https://deepskyhosting.com/img/p/full/mono_40451708526964.jpg" data-high-res-img="https://s3.deepskyhosting.com/img/p/full/40451708526964.jpg" data-width="4992" data-height="3290">
+				<img src="https://deepskyhosting.com/img/p/1000/40451708526964.jpg" alt="NGC 2237 - Rosette Nebula">
+				<div class="show-objects-bar">
+					<span>Objects:</span> Less <input id="show-objects-bar-input" min="0" max="3" step="1" type="range" value="0"> More
+				</div>
+				<div class="zoomer-controls" style='display: none;'>
+					<div id="zoomer-init" class="zoomer-btn zoomer-toggle"><i class="fas fa-expand"></i></div>
+					<div id="zoomer-destroy" class="zoomer-btn zoomer-toggle hidden"><i class="fas fa-expand"></i></div>
+					<div id="zoomer-plus" class="zoomer-btn zoomer-toggle hidden"><i class="fas fa-plus"></i></div>
+					<div id="zoomer-minus" class="zoomer-btn zoomer-toggle hidden"><i class="fas fa-minus"></i></div>
+				</div>
+			</div>
+			<div class="show-gear right-content">
+				
+				<div class="caption text-center">Technical Info <i title="Copy technical info to clipboard" class="fas fa-copy tech-copy-icon"></i></div>
+				<div class="technical-info-block">
+										<div class="pmi">
+						<span class="label">Telescope or Lens:</span> <span class="gear-name">Sky-Watcher 150/750</span>
+					</div>
+															<div class="pmi">
+						<span class="label">Camera:</span> <span class="gear-name">Canon 550da</span>
+					</div>
+															<div class="pmi">
+						<span class="label">Mount:</span> <span class="gear-name">HEQ5 Pro</span>
+					</div>
+															<div class="pmi">
+						<span class="label">Guide Scope:</span> <span class="gear-name">Svbony SV106 60mm</span>
+					</div>
+															<div class="pmi">
+						<span class="label">Guide Camera:</span> <span class="gear-name">ZWO ASI120mm mini</span>
+					</div>
+															<div class="pmi">
+						<span class="label">Software:</span> <span class="gear-name">Pixinsight, Graxpert, NINA, Stellarium, GS Server, PHD2</span>
+					</div>
+															<div class="pmi">
+						<span class="label">Accessories:</span> <span class="gear-name">TS Coma Corrector reducer 0.95x, Svbony SV220 dualband filter</span>
+					</div>
+															
+										
+					<div class="photo-location"><i class="fas fa-map-marker-alt"></i> &nbsp;Minsk, Belarus</div>					<div class="photo-taken-date" style="margin: 10px 0;"><i class="far fa-calendar-alt"></i> &nbsp;21.02.2024</div>										<div class="hidden invert-btn hidden">
+						<button class="dark-btn button" data-on="on" data-off="off">Invert/Mono: <span>off</span></button>
+					</div>
+					
+<textarea style="display: none;" class="tech-info-copy-block">NGC 2237 - ROSETTE NEBULA
+
+Telescope or Lens: Sky-Watcher 150/750
+Camera: Canon 550da
+Mount: HEQ5 Pro
+Guide Scope: Svbony SV106 60mm
+Guide Camera: ZWO ASI120mm mini
+Software: Pixinsight, Graxpert, NINA, Stellarium, GS Server, PHD2
+Accessories: TS Coma Corrector reducer 0.95x, Svbony SV220 dualband filter
+
+Minsk, Belarus
+Synthetic HSO<br><br>
+
+Viewer link: https://deepskyhosting.com/SvEd9oQ
+Author: Alexey Kudosh</textarea>
+					
+					<div class="photo-list-bar">
+						<div class="ppn_signal" title="Total exposure"></div><div class="ppn_views"><i class="far fa-eye"></i> 409</div><div class="ppn_likes like " data-id="17896"><i class="far fa-heart"></i><i class="fas fa-heart"></i> <i class="likes_count_17896">18</i></div>					</div>
+				</div>
+				
+			</div>
+		<div class="clear"></div>
+		</div>
+		<div class="photo-info-block pt-0">
+						<div class="shortdescr">Synthetic HSO<br><br></div>
+								
+			<div class="info-block-buttons">
+				<a target="_blank" href="https://s3.deepskyhosting.com/img/p/full/40451708526964.jpg" class="show_full" ><button class="button accent"><i class="fas fa-eye"></i> View Original</button></a> <span style="" class="photo_share button dark-btn ml-20">Share</span> 			</div>
+			<div class="info-block-size">
+				<div id="zoomer-init" class="pmi resolution"><span class="label">Resolution:</span> 4992x3290 px</div>
+				<div class="pmi size"><span class="label">Scale:</span> 9719 KB</div>
+			</div>
+			<div class="info-block-user">
+				<a class="user_photo_av" title="View all photos by  Alexey Kudosh" href="/id1092"><img src="https://deepskyhosting.com/img/u/10927501691919469.jpg" ></a><div class="user_photo_info"><a title="View all photos by  Alexey Kudosh" href="/id1092">Alexey Kudosh</a><div class="user_photo_count">15</div></div>			</div>
+			<div class="clear"></div>
+			<div class="photo_share_block" style="display: none;">
+				<div class="share_links_block">
+					<div class="photo_share_cap">Main links</div>
+					<label>Link to this page:</label>
+					<input type="text" value="https://deepskyhosting.com/SvEd9oQ" class="copy-text">
+					<label>Direct link to original:</label>
+					<input type="text" value="https://s3.deepskyhosting.com/img/p/full/40451708526964.jpg" class="copy-text">
+				</div>
+				<div class="share_links_block">
+					<div class="photo_share_cap">BBCode (preview image with a link) (BBcode)</div>
+					<label>Link to this page:</label>
+					<input type="text" value="[URL=https://deepskyhosting.com/SvEd9oQ][IMG]https://deepskyhosting.com/img/p/400/40451708526964.jpg[/IMG][/URL]" class="copy-text">
+					<label>Direct link to original photo:</label>
+					<input type="text" value="[URL=https://s3.deepskyhosting.com/img/p/full/40451708526964.jpg][IMG]https://deepskyhosting.com/img/p/400/40451708526964.jpg[/IMG][/URL]" class="copy-text">
+				</div>
+				<div class="share_links_block">
+					<div class="photo_share_cap">HTML</div>
+					<input type="text" value="<a href='https://deepskyhosting.com/SvEd9oQ'><img src='https://deepskyhosting.com/img/p/600/40451708526964.jpg'></a>" class="copy-text">
+				</div>
+				<div class="share_links_block">
+					<div class="photo_share_cap">Social networks and messengers</div>
+					<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+					<script src="//yastatic.net/share2/share.js"></script>
+					<div class="ya-share2" data-services="vkontakte,facebook,pinterest,whatsapp" data-image="https://deepskyhosting.com/img/p/400/40451708526964.jpg"></div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="photo_group">
+			<div class="photo_group_item" data-img="https://deepskyhosting.com/img/p/1000/40451708526964.jpg" data-date="21 Feb, 2024">
+				
+				<div class="photo_group_item_a"><img src="/img/p/250/40451708526964.jpg"><div class="photo_group_item_input"><input data-img="https://deepskyhosting.com/img/p/1000/40451708526964.jpg" data-date="21 Feb, 2024" type="checkbox" checked></div></div>
+				<div class="photo-group-item-info">
+					<span class='photo-group-item-current'>Current photo</span> 
+					<span class='photo-group-item-update'>Updated</span> 
+					<div class="photo-group-item-info-title"><a href="/SvEd9oQ">NGC 2237 - Rosette Nebula</a></div>
+					<div class="photo-group-item-info-item"><i class="far fa-clock"></i> &nbsp; 21 Feb, 2024</div>
+					<div class="photo-group-item-info-item"><i class="fas fa-hourglass-half"></i> &nbsp; 0</div>
+					<div class="photo-group-item-info-item">Synthetic HSO
+
+</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="photo_group_item" data-img="https://deepskyhosting.com/img/p/1000/73891708354195.jpg" data-date="19 Feb, 2024">
+				
+				<div class="photo_group_item_a"><img src="/img/p/250/73891708354195.jpg"><div class="photo_group_item_input"><input data-img="https://deepskyhosting.com/img/p/1000/73891708354195.jpg" data-date="19 Feb, 2024" type="checkbox" checked></div></div>
+				<div class="photo-group-item-info">
+					 
+					 
+					<div class="photo-group-item-info-title"><a href="/8cEBexB">NGC 2237 - Rosette Nebula</a></div>
+					<div class="photo-group-item-info-item"><i class="far fa-clock"></i> &nbsp; 19 Feb, 2024</div>
+					<div class="photo-group-item-info-item"><i class="fas fa-hourglass-half"></i> &nbsp; 3 h 35 m</div>
+					<div class="photo-group-item-info-item"></div>
+				</div>
+				<div class="clear"></div>
+			</div></div>
+	<div class="show-changes-btn"><span class="button dark-btn">Show changes</span></div>
+	<script src="/js/jquery.event.move.js"></script>
+	<script src="/js/jquery.twentytwenty.js?d"></script>
+	<link rel="stylesheet" type="text/css" href="/css/twentytwenty.css?d">
+	
+	
+			</div>
+				<div class="object-altitude-block mt-30">
+					</div>
+				<div class="comments-form" style="">
+			<span class="button accent float-right add-comment-span"><i class="fas fa-plus"></i> Add comment</span>
+			<h3>Comments</h3>
+			<p>There are no comments on this picture yet</p>			
+				<div class="add-comment-form">
+											<p class="regtocomment ">Comments are available only to registered users. Register or log in to leave a comment.</p>
+									</div>
+				<script>
+					$(document).ready(function() {
+						$('.add-comment-span').click(function() {
+							$('.add-comment-form').show();
+							 $('html, body').animate({
+								scrollTop: $(".add-comment-form").offset().top
+							}, 350);
+							$('.addcommentform textarea').focus();
+						});
+						
+						$('.bic_answer').click(function() {
+							$('.add-comment-form').show();
+							$(this).parent().after($('.add-comment-form'));
+							$('.addcommentform input[name="par"]').val($(this).data("par"));
+							$('.addcommentform input[name="realpar"]').val($(this).data("realpar"));
+							$('.addcommentform .reply-to span').text($(this).data("parname"));
+							$('.addcommentform .reply-to').removeClass("hidden");
+							$('.addcommentform textarea').focus();
+						});
+						
+						$('.reply-to i').click(function() {
+							$('.addcommentform .reply-to span').text("");
+							$('.addcommentform .reply-to').addClass("hidden");
+							$('.addcommentform input[name="par"]').val("0");
+							$('.addcommentform input[name="realpar"]').val("0");
+							$(".bi_comment:last").after($('.add-comment-form'));
+						});
+					});
+				</script>
+			<div class="clear"></div>
+		</div>
+		
+		
+	</div>
+</div>
+	
+	
+	
+	<link href="/css/imageviewer.css?2"  rel="stylesheet" type="text/css" />
+	<script src="/js/imageviewer.js?1"></script>
+	<!--<script>
+		$(function () {
+			var viewer = ImageViewer({maxZoom : 400});
+			$('.show_photo').click(function () {
+				var imgSrc = $(this).data('img'),
+					highResolutionImage = $(this).data('high-res-img');
+		 
+				viewer.show(imgSrc, highResolutionImage);
+			});
+		});
+	</script> -->
+	<script>
+	    $(function () {
+	        var imgWidth = $(".show-photo").data("width");
+	        var imgHeight = $(".show-photo").data("height");
+	        var selSide = getRes(imgWidth, imgHeight);
+	        var winSide = selSide == "w" ? document.documentElement.clientWidth : document.documentElement.clientHeight;
+	        var originSide = selSide == "w" ? imgWidth : imgHeight;
+	        var maxZoom = originSide * 1.4 / winSide * 100;
+	        var realZoom = originSide > winSide ? originSide / winSide * 100 : 100;
+	        var perc = winSide / originSide * 100;
+			
+			// ImageViewer plugin by Sudhanshu Yadav - see more: https://github.com/s-yadav/iv-viewer
+
+			
+	        var viewer = ImageViewer({zoomValue: 100, maxZoom: maxZoom});
+			
+			
+	        $('body').on('click','.show-photo > img',function () {
+				if ($('.invert-btn .button').hasClass('accent')) {
+					var imgSrc = $(this).parent().data('mono-img'), highResolutionImage = $(this).parent().data('mono-high-res-img');
+				} else {
+					var imgSrc = $(this).parent().data('img'), highResolutionImage = $(this).parent().data('high-res-img');
+				}
+				
+				if (originSide < winSide) {
+					location.href = imgSrc;
+				} else {
+					viewer.show(imgSrc, highResolutionImage);
+				}
+			
+				
+				
+	            if ($("#volume_perc").length == 0)
+	            	$("<span id='volume_perc'>"+Math.round(perc)+"</span>").insertAfter(".iv-zoom-slider:first");
+				
+				$('body').on('click', '#volume_perc i', function() {
+					  var winSide = selSide == "w" ? document.documentElement.clientWidth : document.documentElement.clientHeight;
+						var originSide = selSide == "w" ? imgWidth : imgHeight;
+						var maxZoom = originSide * 1.4 / winSide * 100;
+						var realZoom = originSide > winSide ? originSide / winSide * 100 : 100;
+					viewer.zoom(realZoom);
+				});
+				
+	        });
+	    });
+
+	    function getRes(imgWidth, imgHeight){
+	        var winWidth = document.documentElement.clientWidth;
+	        var winHeight = document.documentElement.clientHeight;
+	        if (winWidth / winHeight < imgWidth/imgHeight){
+	            return "w";
+	        }
+	        else {
+	            return "h";
+	        }
+	    }
+
+	    function recalc(){
+	        var currentWindth = $(".iv-large-image").width();
+	        var originalWidth = $(".show-photo").data("width");
+	        var compare = Math.round(currentWindth/originalWidth * 100);
+			
+			
+			
+	        $("#volume_perc").text(compare + "%");
+			if (compare != 100) {$("#volume_perc").append("<i>1:1</i>");}
+
+	    }
+
+	    var notes = [{"pos":{"x":540,"y":486,"radius":164.7636217948718},"note":"NGC 2237","type":"ngc"},{"pos":{"x":519,"y":521,"radius":164.7636217948718},"note":"NGC 2238","type":"ngc"},{"pos":{"x":589,"y":246,"radius":24},"note":"NGC 2246","type":"ngc"},{"pos":{"x":480,"y":338,"radius":23},"note":"NGC 2239","type":"ngc"},{"pos":{"x":430,"y":280,"radius":0},"note":"12 Mon","type":"bright"}];		$(document).ready(function() {
+			var right_height = $('.right-content').outerHeight();
+			$('.photo-content').css("min-height",right_height+"px");
+			
+			$(".show-photo img").one("load", function() {
+				if (notes.length == 0){
+					$(".show-objects-bar").addClass("empty");
+				}
+			  $('.show-photo img').addNotes(notes);
+			}).each(function() {
+			  if(this.complete) {
+				  $(this).trigger('load');
+			  }
+			});
+
+
+			$("#show-objects-bar-input").change(function(){
+				let val = $(this).val();
+				$('.show-photo img').addNotes(notes, val);
+				$(".image-overlay-note, .image-overlay-point, .image-overlay-stick").fadeIn(0);
+			});
+
+			$("#zoomer-init").click(function(){
+				$(".zoomer-toggle").toggleClass("hidden")
+				$(".zoomer").remove()
+				$(".image-overlay-object").remove()
+
+				let $img = $('.show-photo > img')
+			    let width = $img.parent().data("width")
+			    let height = $img.parent().data("height")
+			    let fullPath = $img.parent().data('high-res-img')
+			    window.$zoomerCenter = $img.parent().append('<div class="zoomer zoomer-image-center"><img src="'+fullPath+'"></div>').children("div:last-child").css({
+			    	position: 'absolute',
+				    top: 0,
+				    left: 0,
+				    width: '100%',
+				    height: '100%',
+				    overflow: 'hidden'
+			    })
+			    window.$zoomerBottomRight = $img.parent().append('<div class="zoomer zoomer-image-bottom-right"><img src="'+fullPath+'"></div>').children("div:last-child").css({
+			    	overflow: 'hidden',
+					width: '40%',
+					height: '40%',
+					position: 'absolute',
+					border: '1px white solid',
+					bottom: 0,
+					right: 0
+			    })
+			    window.$zoomerTopRight = $img.parent().append('<div class="zoomer zoomer-image-top-right"><img src="'+fullPath+'" ></div>').children("div:last-child").css({
+			    	overflow: 'hidden',
+					width: '40%',
+					height: '40%',
+					position: 'absolute',
+					border: '1px white solid',
+					top: 0,
+					right: 0
+			    })
+			    window.$zoomerTopLeft = $img.parent().append('<div class="zoomer zoomer-image-top-left"><img src="'+fullPath+'" ></div>').children("div:last-child").css({
+			    	overflow: 'hidden',
+					width: '40%',
+					height: '40%',
+					position: 'absolute',
+					border: '1px white solid',
+					top: 0,
+					left: 0
+			    })
+			    window.$zoomerBottomLeft = $img.parent().append('<div class="zoomer zoomer-image-bottom-left"><img src="'+fullPath+'" ></div>').children("div:last-child").css({
+			    	overflow: 'hidden',
+					width: '40%',
+					height: '40%',
+					position: 'absolute',
+					border: '1px white solid',
+					bottom: 0,
+					left: 0
+			    })
+			    $(".zoomer > img").css({
+			    	width: width+"px", 
+			    	height: height+"px",
+			    	position: 'absolute'
+			    })
+
+			    $zoomerBottomLeft.children("img").css({ bottom: 0, left: 0 })
+			    $zoomerBottomRight.children("img").css({ bottom: 0, right: 0 })
+			    $zoomerTopLeft.children("img").css({ top: 0, left: 0 })
+			    $zoomerTopRight.children("img").css({ top: 0, right: 0 })
+
+			    $(".zoomer-image-center img").css({width: width+"px", height: height+"px", 'margin-left': "-"+(width - width / 2)+"px", 'margin-top': "-"+(height - height / 2)+"px", top: '50%', left:'50%', position: 'absolte'})
+			})
+
+			$("#zoomer-plus").click(function(){
+			    let width = $(".zoomer > img").first().width()
+			    let height = $(".zoomer > img").first().height()
+			    width += width * 0.1
+			    height += height * 0.1
+			    $(".zoomer > img").css({width: width + "px", height: height + "px"})
+			    $(".zoomer-image-center img").css({width: width+"px", height: height+"px", 'margin-left': "-"+(width - width / 2)+"px", 'margin-top': "-"+(height - height / 2)+"px", top: '50%', left:'50%'})
+			})
+
+			$("#zoomer-minus").click(function(){
+			    let width = $(".zoomer > img").first().width()
+			    let height = $(".zoomer > img").first().height()
+			    width -= width * 0.1
+			    height -= height * 0.1
+			    $(".zoomer > img").css({width: width + "px", height: height + "px"})
+			    $(".zoomer-image-center > img").css({width: width+"px", height: height+"px", 'margin-left': "-"+(width - width / 2)+"px", 'margin-top': "-"+(height - height / 2)+"px", top: '50%', left:'50%'})
+			})
+
+			$("#zoomer-destroy").click(function(){
+				$(".zoomer-toggle").toggleClass("hidden")
+			    $(".zoomer").remove()
+			    $('.show-photo img').addNotes(notes);
+			})
+
+			// $(document).on('input', '#show-objects-bar-input', function() {
+			//     console.log($(this).val());
+			// });
+		});
+
+		$.fn.addNotes = function(notes, limitLevel = 0){
+				$(".image-overlay-object").remove();
+			    var $img = $(this);
+			    var pos = $img.position();
+			    var w = $img.outerWidth();
+			    var h = $img.outerHeight();
+			    var originWidth = $(".show-photo").data('width');
+			    var adjustW = originWidth >= 1000 ? w/1000 : w/originWidth;
+			    var offsetX = pos.left;
+			    var offsetY = pos.top;
+
+			    var $imgparent = $(".show-photo");
+
+			    $imgparent.mouseenter(function(){
+			       $(".image-overlay-note, .image-overlay-point, .image-overlay-stick").fadeIn(200);
+			    }).mouseleave(function(){
+			       $(".image-overlay-note, .image-overlay-point, .image-overlay-stick").fadeOut(200);
+			    });
+			    let totalNotesHD = 0;
+			    $.each(notes, function(idx,note){
+			    	if (note.type == 'hd') totalNotesHD++;
+
+			    	limitLevel = Number(limitLevel);
+			    	if (limitLevel == 0){
+			    		if (idx >= 5 || note.type == 'hd'){
+			    			return
+			    		}
+			    	}
+			    	else if (limitLevel === 1){
+			    		if (idx >= 5 && note.pos.radius < 1 || note.type == 'hd'){
+			    			return
+			    		}
+			    	}
+			    	else if (limitLevel === 2){
+			    		if (note.type == 'hd'){
+			    			return
+			    		}
+			    	}
+
+			        var $point = $('<div/>').addClass('image-overlay-object image-overlay-point').css({
+			            position:'absolute',
+			            left: (Number(offsetX)+note.pos.x * adjustW - note.pos.radius)+'px',
+			            top: (Number(offsetY)+note.pos.y * adjustW - note.pos.radius)+'px',
+			            width: note.pos.radius*2 + 'px',
+			            height: note.pos.radius*2 + 'px',
+			            borderRadius: '50%',
+			            background:'rgba(0,0,0,0)',
+						display: 'none',
+			            border: '1px white solid'
+			        });
+			        var $stick = $('<div/>').addClass('image-overlay-object image-overlay-stick').css({
+			            position:'absolute',
+			            left: (Number(offsetX)+note.pos.x) * adjustW - note.pos.radius + note.pos.radius +'px',
+			            top: (Number(offsetY)+note.pos.y) * adjustW - note.pos.radius + note.pos.radius*2 + 2 +'px',
+			            width: '1px',
+			            height: '30px',
+						display: 'none',
+			            background:'white'
+			        });
+			       
+			        var $note = $('<div/>').addClass('image-overlay-object image-overlay-note').html(note.note).css({
+			            position:'absolute',
+			            left: (Number(offsetX) + note.pos.x) * adjustW - note.pos.radius +'px',
+			            top: (Number(offsetY)+note.pos.y) * adjustW - note.pos.radius + 32 + note.pos.radius * 2 + 'px',
+			            background:'rgba(0,0,0,0.4)',
+			            padding:'5px',
+			            //width: note.pos.radius*2 + 'px',
+			            'min-width': '50px',
+			            'text-align': 'center',
+			            display: 'none',
+			            'margin-left': note.pos.radius,
+			            color: 'white'
+			        });
+			       $img.after($point);
+			       $img.after($stick)
+			       $point.after($note);
+			    });
+
+			    if (notes.length <= 5 && totalNotesHD == 0){
+			    	$(".show-objects-bar").addClass('empty');
+			    }
+			};
+	</script>
+	<div class="footer">
+		<div class="container">
+			<div class="foot-social">
+				<a href="https://instagram.com/deepskyhosting/" target="_blank"><i class="fab fa-instagram"></i></a>
+				<a href="https://vk.com/deepskyhosting" target="_blank" class="hidden"><i class="fab fa-vk"></i></a>
+			</div>
+			<div class="foot-menu" style="display: none;">
+				<a href="">About</a><a href="">F.A.Q.</a><a href="" class="free-api">Free API</a><a href="">Credits</a>
+			</div>
+			<div class="footer-copy">Copyright © 2024 DeepSkyHosting.com - Astrophotography</div>
+			<div class="footer-contact"><a href="mailto:admin@deepskyhosting.com" class="blue-link">For your questions & ideas</a></div>
+		</div>
+	</div>
+	
+	<input type="file" name="file" class="uploadfile" style="display: none;">
+	
+	<!-- Yandex.Metrika counter -->
+		<script type="text/javascript" >
+		   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+		   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+		   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+		   ym(52512814, "init", {
+				id:52512814,
+				clickmap:true,
+				trackLinks:true,
+				accurateTrackBounce:true,
+				webvisor:true
+		   });
+		</script>
+		<noscript><div><img src="https://mc.yandex.ru/watch/52512814" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+		<!-- /Yandex.Metrika counter -->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-34234894-3"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-34234894-3');
+	</script>
+	
+</body>
+</html>

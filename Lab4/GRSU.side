@@ -1,0 +1,106 @@
+{
+  "id": "b5d1add0-d8cf-49ad-8620-5ce9c47f824d",
+  "version": "2.0",
+  "name": "GRSU",
+  "url": "https://www.grsu.by/",
+  "tests": [{
+    "id": "fac54ce4-9c07-4c87-a07e-fb816d3b6f83",
+    "name": "Links",
+    "commands": [{
+      "id": "c3592552-10d9-49e8-8303-0d660bbb337e",
+      "comment": "",
+      "command": "open",
+      "target": "https://www.grsu.by/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6fcb56fe-8315-4b76-9555-ca9ad4b25a1e",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Карта сайта",
+      "targets": [
+        ["linkText=Карта сайта", "linkText"],
+        ["css=.item-1635 > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Карта сайта')]", "xpath:link"],
+        ["xpath=//header[@id='top']/div/div[4]/div/ul/li[16]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/sitemap.html')]", "xpath:href"],
+        ["xpath=//li[16]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Карта сайта')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "0802815e-4269-4d81-9011-20ff99ee5045",
+      "comment": "",
+      "command": "executeScript",
+      "target": "return Array.from(document.querySelectorAll('a.osmap-link')).map(link => link.href);",
+      "targets": [],
+      "value": "links"
+    }, {
+      "id": "9bc02cea-74a1-4206-8593-c6a63bde391d",
+      "comment": "",
+      "command": "forEach",
+      "target": "links",
+      "targets": [],
+      "value": "item"
+    }, {
+      "id": "56894149-821f-4f28-85b7-93e309c914c8",
+      "comment": "",
+      "command": "open",
+      "target": "${item}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "69d51d6f-345a-4500-b295-7130ac2d45b5",
+      "comment": "",
+      "command": "executeScript",
+      "target": "return document.readyState === 'complete'; ",
+      "targets": [],
+      "value": "ready"
+    }, {
+      "id": "e8282832-8928-46e4-b0c0-b94701776e37",
+      "comment": "",
+      "command": "executeScript",
+      "target": "return document.body.innerText.includes(\"404\");",
+      "targets": [],
+      "value": "is404"
+    }, {
+      "id": "682333e4-a6de-4bfa-ad3a-9d56ad877fe4",
+      "comment": "",
+      "command": "if",
+      "target": "${is404}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "edec0f90-a6c3-4eea-a83d-749904e26052",
+      "comment": "",
+      "command": "echo",
+      "target": "\"Ссылка ${item} не работает\"",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "64d7ae95-85ad-4a81-b469-78bdb3a02215",
+      "comment": "",
+      "command": "end",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5ebee69f-5203-497b-9975-c246c787714c",
+      "comment": "",
+      "command": "end",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "bb77cce3-c788-4ca9-91ea-70acf20bab17",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["fac54ce4-9c07-4c87-a07e-fb816d3b6f83"]
+  }],
+  "urls": ["https://www.grsu.by/"],
+  "plugins": []
+}
