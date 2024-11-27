@@ -85,7 +85,7 @@
     String phoneNumber = phonebook.getPhoneNumberById(phoneId);
 %>
 
-<form action="<%=request.getContextPath()%>/ManagePhone" method="post">
+<form action="<%=request.getContextPath()%>/ManagePhone?action=edit" method="post"  id = "form">
     <input type="hidden" name="personId" value="<%=personId%>"/>
     <input type="hidden" name="phoneId" value="<%=phoneId%>"/>
     
@@ -106,6 +106,20 @@
         </tr>
     </table>
 </form>
+<script>
+document
+.getElementById("form")
+.onsubmit = validateForm;
+        function validateForm() {
+            const phoneInput = document.getElementById('phone');
+            const pattern = /^[\d+#-]{2,50}$/; // Регулярное выражение для проверки
 
+            if (!pattern.test(phoneInput.value)) {
+                alert("Требования к телефонному номеру: от 2 до 50 символов: цифра, +, -, #.");
+                return false; // Останавливаем отправку формы
+            }
+            return true; // Разрешаем отправку формы
+        }
+    </script>
 </body>
 </html>

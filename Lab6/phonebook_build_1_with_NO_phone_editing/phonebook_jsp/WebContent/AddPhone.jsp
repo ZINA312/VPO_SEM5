@@ -81,7 +81,7 @@
         Person person = phonebook.getPerson(personId);
     %>
 
-    <form action="<%=request.getContextPath()%>/ManagePhone" method="post" onsubmit="return validateForm()">
+    <form action="<%=request.getContextPath()%>/ManagePhone?action=add" method="post" id = "form">
         <input type="hidden" name="personId" value="<%=request.getParameter("personId")%>"/>
         <table>
             <tr>
@@ -95,19 +95,22 @@
                 <td colspan="2" class="center">
                     <input type="submit" value="Добавить номер"/>
                     <br/>
-                    <a href="<%=request.getContextPath()%>/phonebook_jsp/">Вернуться к списку</a>
+                    <a href="<%=request.getContextPath()%>/phonebook_jsp/?action=edit&id=<%=personId%>">Вернуться к данным о человеке</a>
                 </td>
             </tr>
         </table>
     </form>
 
     <script>
+	    document
+	    .getElementById("form")
+	    .onsubmit = validateForm;
         function validateForm() {
             const phoneInput = document.getElementById('phone');
             const pattern = /^[\d+#-]{2,50}$/; // Регулярное выражение для проверки
 
             if (!pattern.test(phoneInput.value)) {
-                alert("Номер не соответствует формату!");
+                alert("Требования к телефонному номеру: от 2 до 50 символов: цифра, +, -, #.");
                 return false; // Останавливаем отправку формы
             }
             return true; // Разрешаем отправку формы

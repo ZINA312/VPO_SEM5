@@ -141,7 +141,7 @@
 			                for (HashMap.Entry<String, String> entry : phones.entrySet()) {
 			                    String id = entry.getKey();
 			                    String value = entry.getValue();
-			                    String editUrl = request.getContextPath() + "/EditPhone.jsp?phoneId=" + id + "&personId=" + person.getId();
+			                    String editUrl = request.getContextPath() + "/EditPhone.jsp?action=edit&phoneId=" + id + "&personId=" + person.getId();
 			            %>
 			                <div class="phone-item">
 			                    <input type="text" name="phones" value="<%=value%>" readonly class="phone-input"/>
@@ -155,7 +155,7 @@
 			                }
 			            %>
 			        </div>
-			        <a href="<%=request.getContextPath()%>/AddPhone.jsp?personId=<%=person.getId() %>" class="link-button">Добавить телефон</a>
+			        <a href="<%=request.getContextPath()%>/AddPhone.jsp?action=add&personId=<%=person.getId() %>" class="link-button">Добавить телефон</a>
 			    </td>
 			</tr>
         <% } %>

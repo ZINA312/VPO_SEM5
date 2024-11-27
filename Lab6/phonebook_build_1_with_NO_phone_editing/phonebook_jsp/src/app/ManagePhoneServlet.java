@@ -19,27 +19,51 @@ public class ManagePhoneServlet extends HttpServlet {
         response.setHeader("Expires", "0");
 
         String personId = request.getParameter("personId");
+        String phoneId = request.getParameter("phoneId");
         String newPhone = request.getParameter("phone");
-
+        String action = request.getParameter("action");
         Phonebook phonebook = null;
-        try {
-            phonebook = Phonebook.getInstance();
-            if (newPhone != null && !newPhone.trim().isEmpty()) {
-                boolean addSuccess = phonebook.addPhone(personId, newPhone.trim());
-                if (addSuccess) {
-                    response.sendRedirect(request.getContextPath() + "/?action=edit&id=" + personId + "&addedPhone=" + newPhone);
-                } else {
-                    request.setAttribute("errorMessage", "Ошибка добавления номера телефона");
-                    request.getRequestDispatcher("/AddPhone.jsp").forward(request, response);
-                }
-            } else {
-                request.setAttribute("errorMessage", "Номер телефона не может быть пустым");
-                request.getRequestDispatcher("/AddPhone.jsp").forward(request, response);
-            }
-        } catch (ClassNotFoundException | SQLException e) {
-            e.printStackTrace();
-            request.setAttribute("errorMessage", "Ошибка сервера");
-            request.getRequestDispatcher("/AddPhone.jsp").forward(request, response);
+        if ("add".equals(action)) {
+	        try {
+	            phonebook = Phonebook.getInstance();
+	            if (newPhone != null && !newPhone.trim().isEmpty()) {
+	                boolean addSuccess = phonebook.addPhone(personId, newPhone.trim());
+	                if (addSuccess) {
+	                    response.sendRedirect(request.getContextPath() + "/?action=edit&id=" + personId + "&addedPhone=" + newPhone);
+	                } else {
+	                    request.setAttribute("errorMessage", "Ошибка добавления номера телефона");
+	                    request.getRequestDispatcher("/AddPhone.jsp").forward(request, response);
+	                }
+	            } else {
+	                request.setAttribute("errorMessage", "Номер телефона не может быть пустым");
+	                request.getRequestDispatcher("/AddPhone.jsp").forward(request, response);
+	            }
+	        } catch (ClassNotFoundException | SQLException e) {
+	            e.printStackTrace();
+	            request.setAttribute("errorMessage", "Ошибка сервера");
+	            request.getRequestDispatcher("/AddPhone.jsp").forward(request, response);
+	        }
+    	}
+        if ("edit".equals(action)) {
+        	try {
+	            phonebook = Phonebook.getInstance();
+	            if (newPhone != null && !newPhone.trim().isEmpty()) {
+	                boolean addSuccess = phonebook.updatePhoneNumber(phoneId, newPhone.trim());
+	                if (addSuccess) {
+	                    response.sendRedirect(request.getContextPath() + "/?action=edit&id=" + personId + "&addedPhone=" + newPhone);
+	                } else {
+	                    request.setAttribute("errorMessage", "Ошибка редактирования номера телефона");
+	                    request.getRequestDispatcher("/EditPhone.jsp").forward(request, response);
+	                }
+	            } else {
+	                request.setAttribute("errorMessage", "Номер телефона не может быть пустым");
+	                request.getRequestDispatcher("/EditPhone.jsp").forward(request, response);
+	            }
+	        } catch (ClassNotFoundException | SQLException e) {
+	            e.printStackTrace();
+	            request.setAttribute("errorMessage", "Ошибка сервера");
+	            request.getRequestDispatcher("/EditPhone.jsp").forward(request, response);
+	        }
         }
     }
 }
